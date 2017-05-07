@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="node_modules/vss-web-extension-sdk/lib/VSS.SDK.js"></script>
+    <script src="app.js"></script>
+</head>
+<body>
+    <h1>TypeScript HTML App</h1>
+    <script type="text/javascript">
+        VSS.init({
+            explicitNotifyLoaded: true,
+            usePlatformScripts: true,
+            usePlatformStyles: true
+        });
+    </script>
+    <script>
+         function addEvent(obj, event, func) {
+             if (obj.addEventListener) {
+                 obj.addEventListener(event, func, false);
+                 return true;
+             } else if (obj.attachEvent) {
+                 obj.attachEvent('on' + event, func);
+             } else {
+                 var f = obj['on' + event];
+                 obj['on' + event] = typeof f === 'function' ? function () {
+                     f();
+                     func();
+                 } : func
+             }
+         }
+    </script>
+    
+
+    <div id="Projects">
+        <h2>Projects in progress</h2>
+        <script type="text/javascript"> VSS.require(["app"]); </script>
+    </div>
+
+    <div id="content"></div>
+</body>
+</html>

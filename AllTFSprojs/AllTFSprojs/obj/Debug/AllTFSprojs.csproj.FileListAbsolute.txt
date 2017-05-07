@@ -1,0 +1,12 @@
+C:\Users\mukteswarp\Desktop\x\AllTFSprojs\AllTFSprojs\bin\AllTFSprojs.dll.config
+C:\Users\mukteswarp\Desktop\x\AllTFSprojs\AllTFSprojs\bin\AllTFSprojs.dll
+C:\Users\mukteswarp\Desktop\x\AllTFSprojs\AllTFSprojs\bin\AllTFSprojs.pdb
+C:\Users\mukteswarp\Desktop\x\AllTFSprojs\AllTFSprojs\obj\Debug\AllTFSprojs.csprojResolveAssemblyReference.cache
+C:\Users\mukteswarp\Desktop\x\AllTFSprojs\AllTFSprojs\obj\Debug\AllTFSprojs.dll
+C:\Users\mukteswarp\Desktop\x\AllTFSprojs\AllTFSprojs\obj\Debug\AllTFSprojs.pdb
+D:\TFS Ext\AllTFSprojs\AllTFSprojs\bin\AllTFSprojs.dll.config
+D:\TFS Ext\AllTFSprojs\AllTFSprojs\bin\AllTFSprojs.dll
+D:\TFS Ext\AllTFSprojs\AllTFSprojs\bin\AllTFSprojs.pdb
+D:\TFS Ext\AllTFSprojs\AllTFSprojs\obj\Debug\AllTFSprojs.csprojResolveAssemblyReference.cache
+D:\TFS Ext\AllTFSprojs\AllTFSprojs\obj\Debug\AllTFSprojs.dll
+D:\TFS Ext\AllTFSprojs\AllTFSprojs\obj\Debug\AllTFSprojs.pdb
